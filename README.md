@@ -1,7 +1,11 @@
 # businesscanva
-Aplicación web que permite gestionar un lienzo de modelo de negocio de forma visual e interactiva. Realmente es una prueba de concepto, pero no tengo previsto hacer actualizaciones en el código.
+Aplicación web que permite gestionar un lienzo de modelo de negocio de forma visual e interactiva. Realmente es una prueba de concepto, pero no tengo previsto hacer actualizaciones en el código. Muchos parámetros, como el nombre de la empresa, son configurables directamente modificando los archivos .dat, sin necesidad de tocar código para personalizarlo. 
 
 ![Captura](captura.jpg)
+![Captura](captura1.jpg)
+![Captura](captura2.jpg)
+![Captura](captura3.jpg)
+
 
 Este programa responde a una necesidad concreta de gestionar un modelo de negocio de manera visual e interactiva en el navegador, y no está pensado para instalarse en hostings de acceso público, sino para accederse siempre desde local (no hay ninguna medida de seguridad implementada). Una forma sencilla de ejecutarlo sería acceder a la carpeta donde estén los archivos y ejecutar: 
 
