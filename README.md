@@ -22,4 +22,4 @@ Este programa es una implementación interactiva de un business model canva seg�
 
 # Advertencia
 
-No instales, ejecutes o publiques esta aplicación en lugares distintos a un entorno controlado sin acceso al exterior. En serio, fue creado para demostrar una funcionalidad, no para ser tomado en serio.
+No instales, ejecutes o publiques esta aplicación en lugares distintos a un entorno local controlado.
